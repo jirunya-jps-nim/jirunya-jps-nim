@@ -60,7 +60,7 @@ I am a passionate **Full-Stack Engineer** who loves transforming complex problem
 
 | Sub-system | Tech Stack | Role & Features | Links |
 |:---:|:---|:---|:---:|
-| 🌐 **Web App** | Next.js · React · TypeScript<br>Node.js · Express · Supabase · PostgreSQL · RESTful API | A comprehensive web platform for partner venues (Pubs) to request drivers for clients, review history, and track earnings. It enables drivers to register, upload verification documents, and accept trips, while empowering administrators to manage users and monitor metrics. | [GitHub](https://github.com/jirunyajps-dot) |
+| 🌐 **Web App** | Next.js · React · TypeScript<br>Node.js · Express · Supabase · PostgreSQL · RESTful API | A comprehensive web platform for partner venues (Pubs) to request drivers for clients, review history, and track earnings. It enables drivers to register, upload verification documents, and accept trips, while empowering administrators to manage users and monitor metrics. | [Repo](https://github.com/jirunyajps-dot) |
 
 ---
 
