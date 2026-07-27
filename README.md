@@ -42,10 +42,13 @@
 ---
 
 ## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| 🚘 **SafeSeat Web App** | Next.js · React · TypeScript | ระบบจองที่นั่งและบริหารจัดการการเดินทางปลอดภัย | [Repo](https://github.com/jirunyajps-dot/SafeSeat_Web_FrontEnd) |
-| 🛡️ **SafeSeat Backend API** | Node.js · Express · Supabase · PostgreSQL | RESTful API จัดการระบบสมาชิก ตรวจสอบเอกสารคนขับ | [Repo](https://github.com/jirunyajps-dot/safeseat_backend) |
+
+### 🚘 SafeSeat — Designated Driver Platform
+> ระบบเรียกพนักงานขับรถแทน สำหรับลูกค้าที่ไม่สามารถขับรถได้เอง (เช่น หลังดื่มแอลกอฮอล์) โดยมี 3 ระบบหลักที่ทำงานร่วมกัน
+
+| Sub-system | Tech | Role & Features | Links |
+|:---:|:---|:---|:---:|
+| 🌐 **Web App** | Next.js · React · TypeScript<br>Node.js · Express · Supabase · PostgreSQL · RESTful API | A comprehensive multi-role web platform designed for partner venues (Pubs) to request designated drivers for clients, review service history, and track earnings. It also allows drivers to register, upload verification documents, and accept trips, while enabling administrators to manage users and monitor platform metrics. | [GitHub](https://github.com/jirunyajps-dot) |
 
 ---
 
