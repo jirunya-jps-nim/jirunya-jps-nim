@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:3ECF8E&height=220&section=header&text=Hi,%20I'm%20Jirunya%20👋&fontSize=42&animation=fadeIn&fontColor=ffffff" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:3ECF8E&height=220&section=header&text=Hi,%20I'm%20Jirunya Jitpaisan%20👋&fontSize=42&animation=fadeIn&fontColor=ffffff" alt="header banner" />
 </p>
 
 <h1 align="center">Full-Stack Engineer • Software Developer</h1>
