@@ -3,10 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:3ECF8E&height=220&section=header&text=Hi,%20I'm%20Jirunya%20Jitpaisan%20👋&fontSize=42&animation=fadeIn&fontColor=ffffff" alt="header banner" />
 </p>
 
-<h1 align="center">Full-Stack Engineer</h1>
-
 <p align="center">
-  <em>"Turning ideas into delightful, scalable, and reliable software applications."</em>
+  <strong>Full-stack Developer • Mobile & Web Development • Lifelong Learner</strong><br/>
+  <em>"Turning ideas into delightful, scalable software."</em>
 </p>
 
 <p align="center">
