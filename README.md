@@ -6,7 +6,7 @@
 <h1 align="center">Full-Stack Engineer • Software Developer</h1>
 
 <p align="center">
-  <em>“Turning ideas into delightful, scalable, and reliable software applications.”</em>
+  <em>"Turning ideas into delightful, scalable, and reliable software applications."</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m focused on building scalable web & mobile applications with **Next.js, Spring Boot, Flutter & Supabase**  
+- 🌱  I'm focused on building scalable web & mobile applications with **Next.js, Spring Boot, Flutter & Supabase**  
 - 🛠  Core languages: **Java, JavaScript, TypeScript, Dart**  
 - 🎯  Applying **Object-Oriented Programming (OOP)** principles to craft clean, maintainable code  
 - 🇹🇭  Language: **Thai (Native)**  
@@ -59,8 +59,8 @@
 
 ---
 
-## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+## 🤝 Let's Connect
+> **"Great products are built by great people working together."**
 
 - 💌 Email: **jirunyajps@gmail.com**  
 - 🐙 GitHub: [github.com/jirunyajps-dot](https://github.com/jirunyajps-dot)
