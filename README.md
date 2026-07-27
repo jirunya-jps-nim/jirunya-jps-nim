@@ -17,11 +17,20 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I'm focused on building scalable web & mobile applications with **Next.js, Spring Boot, Flutter & Supabase**  
-- 🛠  Core languages: **Java, JavaScript, TypeScript, Dart**  
-- 🎯  Applying **Object-Oriented Programming (OOP)** principles to craft clean, maintainable code  
-- 🇹🇭  Language: **Thai (Native)**  
-- 📫  Reach me: **jirunyajps@gmail.com** | [GitHub Profile](https://github.com/jirunyajps-dot)
+I am a passionate **Full-Stack Engineer** who loves transforming complex problems into clean, efficient, and user-centric software. With a solid foundation in Object-Oriented Programming (OOP) and a versatile skill set spanning modern web, mobile, and backend development, I thrive on writing maintainable code and solving real-world challenges.
+
+- 🌱 Currently focused on building scalable web & mobile systems using **Next.js, Spring Boot, Flutter & Supabase**
+- 🎯 Committed to crafting high-performance, responsive UIs coupled with robust backend APIs
+- 🇹🇭 Language: **Thai (Native)**
+- 📫 Reach me: **jirunyajps@gmail.com** | [GitHub Profile](https://github.com/jirunyajps-dot)
+
+---
+
+## ⚡ Professional Strengths
+- 💻 **Full-Stack Mindset:** Seamlessly bridge the gap between rich frontend interfaces (React/Next.js) and secure, fast backend APIs (Express/Spring Boot).
+- 📐 **Clean Architecture:** Write clean, modular, and maintainable code applying OOP principles, design patterns, and standard MVC structure.
+- 🧪 **Quality Assurance:** Experience in automation testing using **Robot Framework** to ensure system reliability and smooth user flows.
+- ⚙️ **Agile & Scalable Delivery:** Actively exploring DevOps (Docker, Kubernetes) to optimize containerization and deployment pipelines.
 
 ---
 
@@ -44,11 +53,15 @@
 ## 📌 Featured Projects
 
 ### 🚘 SafeSeat — Designated Driver Platform
-> ระบบเรียกพนักงานขับรถแทน สำหรับลูกค้าที่ไม่สามารถขับรถได้เอง (เช่น หลังดื่มแอลกอฮอล์) โดยมี 3 ระบบหลักที่ทำงานร่วมกัน
+> *An end-to-end, multi-role designated driver service application designed to ensure safe trips for customers who are unable to drive themselves (e.g., after drinking).*
 
-| Sub-system | Tech | Role & Features | Links |
+#### Key Features & Highlights:
+- **Role-Based Access Control (RBAC):** Custom flows tailormade for **Pub Partners** (instant booking for customers, revenue summary, history tracking), **Drivers** (secure registration, document verification pipeline, trip acceptance, live routing), and **Admins** (user verification, driver approvals, statistics dashboard).
+- **Modern Tech Integration:** Built with a Next.js/React frontend with server-side optimizations, backed by a Node.js/Express API, and powered by Supabase + PostgreSQL for real-time data persistence and secure authentication.
+
+| Sub-system | Tech Stack | Role & Features | Links |
 |:---:|:---|:---|:---:|
-| 🌐 **Web App** | Next.js · React · TypeScript<br>Node.js · Express · Supabase · PostgreSQL · RESTful API | A comprehensive multi-role web platform designed for partner venues (Pubs) to request designated drivers for clients, review service history, and track earnings. It also allows drivers to register, upload verification documents, and accept trips, while enabling administrators to manage users and monitor platform metrics. | [GitHub](https://github.com/jirunyajps-dot) |
+| 🌐 **Web App** | Next.js · React · TypeScript<br>Node.js · Express · Supabase · PostgreSQL · RESTful API | A comprehensive web platform for partner venues (Pubs) to request drivers for clients, review history, and track earnings. It enables drivers to register, upload verification documents, and accept trips, while empowering administrators to manage users and monitor metrics. | [GitHub](https://github.com/jirunyajps-dot) |
 
 ---
 
