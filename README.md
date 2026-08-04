@@ -72,7 +72,7 @@ I am a passionate **Full-Stack Engineer** who loves transforming complex problem
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jirunya-jps-nim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jirunya-jps-nim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -80,7 +80,16 @@ I am a passionate **Full-Stack Engineer** who loves transforming complex problem
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jirunya-jps-nim&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophy" />
+
+**🏆 Highlights**
+
+| Category | Status |
+|:---|:---|
+| 💜 Active Repositories | Full-stack projects across Web, Mobile & Backend |
+| ⭐ Focus Areas | Next.js · Spring Boot · Flutter · Supabase |
+| 🔥 Current Streak | Tracked via GitHub Stats above |
+| 🧪 Testing Practice | Robot Framework automation |
+
 </div>
 
 ---
