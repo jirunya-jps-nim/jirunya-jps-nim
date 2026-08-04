@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:3ECF8E&height=220&section=header&text=Hi,%20I'm%20Jirunya%20Jitpaisan%20👋&fontSize=42&animation=fadeIn&fontColor=ffffff" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9BD2,50:E040FB,100:9C27B0&height=300&section=header&text=Hi,%20I'm%20Jirunya%20Jitpaisan%20🩷&fontSize=45&animation=twinkling&fontAnimation=fadeIn&fontColor=ffffff" alt="header banner" />
 </p>
 
 <p align="center">
