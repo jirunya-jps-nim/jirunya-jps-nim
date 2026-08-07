@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9BD2,50:E040FB,100:9C27B0&height=300&section=header&text=Hi,%20I'm%20Jirunya%20Jitpaisan%20🩷&fontSize=45&animation=twinkling&fontAnimation=fadeIn&fontColor=ffffff" alt="header banner" />
+  <img src="header.png" alt="Jirunya Jitpaisan Header" width="100%" />
 </p>
 
 <p align="center">
@@ -67,30 +67,23 @@ I am a passionate **Full-Stack Engineer** who loves transforming complex problem
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jirunya-jps-nim&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirunya-jps-nim&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jirunya-jps-nim&show_icons=true&count_private=true&bg_color=0d0b18&title_color=c084fc&text_color=e2e8f0&icon_color=c084fc&border_color=2e1065&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirunya-jps-nim&layout=compact&bg_color=0d0b18&title_color=c084fc&text_color=e2e8f0&icon_color=c084fc&border_color=2e1065&hide_border=true" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jirunya-jps-nim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jirunya-jps-nim&theme=tokyonight&background=0d0b18&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&sideNums=e2e8f0&currStreakNum=e2e8f0&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirunya-jps-nim&theme=react-dark&hide_border=true&bg_color=0d1117&color=FF9BD2&line=E040FB&point=ffffff" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirunya-jps-nim&theme=react-dark&hide_border=true&bg_color=0d0b18&color=c084fc&line=c084fc&point=ffffff" alt="Activity Graph" width="95%" />
 </div>
 
-<div align="center">
 
-**🏆 Highlights**
-
-| Category | Status |
-|:---|:---|
-| 💜 Active Repositories | Full-stack projects across Web, Mobile & Backend |
-| ⭐ Focus Areas | Next.js · Spring Boot · Flutter · Supabase |
-| 🔥 Current Streak | Tracked via GitHub Stats above |
-| 🧪 Testing Practice | Robot Framework automation |
-
-</div>
 
 ---
 
