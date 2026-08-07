@@ -1,6 +1,8 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="header.png" alt="Jirunya Jitpaisan Header" width="100%" />
+  <a href="https://my-portfolio-jirunya-jps-nim.vercel.app" target="_blank">
+    <img src="header.png" alt="Jirunya Jitpaisan Header" width="100%" />
+  </a>
 </p>
 
 <p align="center">
@@ -11,6 +13,7 @@
 <p align="center">
   <a href="mailto:jirunyajps@gmail.com"><img src="https://img.shields.io/badge/Email-jirunyajps%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/jirunya-jps-nim"><img src="https://img.shields.io/badge/GitHub-jirunya--jps--nim-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://my-portfolio-jirunya-jps-nim.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -21,7 +24,7 @@ I am a passionate **Full-Stack Engineer** who loves transforming complex problem
 - 🌱 Currently focused on building scalable web & mobile systems using **Next.js, Spring Boot, Flutter & Supabase**
 - 🎯 Committed to crafting high-performance, responsive UIs coupled with robust backend APIs
 - 🇹🇭 Language: **Thai (Native)**
-- 📫 Reach me: **jirunyajps@gmail.com** | [GitHub Profile](https://github.com/jirunya-jps-nim)
+- 📫 Reach me: **jirunyajps@gmail.com** | [GitHub Profile](https://github.com/jirunya-jps-nim) | [Live Portfolio](https://my-portfolio-jirunya-jps-nim.vercel.app)
 
 ---
 
@@ -92,6 +95,7 @@ I am a passionate **Full-Stack Engineer** who loves transforming complex problem
 
 - 💌 Email: **jirunyajps@gmail.com**  
 - 🐙 GitHub: [github.com/jirunya-jps-nim](https://github.com/jirunya-jps-nim)
+- 🌐 Portfolio: [my-portfolio-jirunya-jps-nim.vercel.app](https://my-portfolio-jirunya-jps-nim.vercel.app)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jirunya-jps-nim&style=flat-square&color=007ACC" alt="profile views"/>
